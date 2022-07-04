@@ -5,7 +5,7 @@
 	<groupId>com.infy</groupId>
 	<artifactId>SpringDemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringDemo</name>
+	<name>SpringDemo 123</name>
 	<properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
